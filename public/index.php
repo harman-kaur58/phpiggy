@@ -1,6 +1,8 @@
 <?php
 // phpinfo();
 // echo"hyyyy";
-include __DIR__.'/../src/App/bootstrap.php';
+include __DIR__ . '/../src/App/bootstrap.php';
 
 $app->run();
+echo "<br>";
+echo "hello";
